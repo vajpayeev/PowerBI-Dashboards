@@ -1,6 +1,6 @@
 # PowerBI-Dashboards
 This repository contains PowerBI data analysis projects.
-The KPMG Data Project highlights the data analysis if Sprockert Customer Data and the company is interested in understanding the customer behaivour to target the marketing strategies for business growth.
+The KPMG Data Project highlights the data analysis of Sprockert Customer Data and the company is interested in understanding the customer behaivour to target the marketing strategies for business growth.
 Using data analysis skill set, I have tried to answer some of the business related questions that will help in business decision making.
 
 
